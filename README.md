@@ -111,9 +111,9 @@ Please take a look at the [contributing guidelines](./CONTRIBUTING.md) for a det
 
 ## Results Analysis
 
-The models make strongly right predictions
+The models make strongly right predictions. Matrix Confussion:
 
-![results](https://i.imgur.com/ZGFRdIc.png)
+![results](https://github.com/dionicio-alberto/Regresion-Logistica/blob/main/output1.png?raw=true)
 
 <!--  ## Backers [![Backers on Open Collective](https://opencollective.com/git-point/backers/badge.svg)](#backers)
 
