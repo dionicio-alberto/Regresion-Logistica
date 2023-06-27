@@ -114,6 +114,8 @@ Please take a look at the [contributing guidelines](./CONTRIBUTING.md) for a det
 The models make strongly right predictions. Matrix Confussion:
 
 ![results](https://github.com/dionicio-alberto/Regresion-Logistica/blob/main/output1.png?raw=true)
+**0** is Benign
+**1** is Malign 
 
 <!--  ## Backers [![Backers on Open Collective](https://opencollective.com/git-point/backers/badge.svg)](#backers)
 
